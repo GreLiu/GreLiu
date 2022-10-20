@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Greg (Guang) Liu Network Engineer since 1999, 2X CCIE10083 Emeritus
+- 👋 Hi, I’m Greg (Guang) Liu Network Engineer since 1999, 2X CCIE10083 Emeritus, Azure Network Engineer AZ700
 - 👀 I’m interested in solutions can bring business value
 - 🌱 I’m currently learning Bicep
 
