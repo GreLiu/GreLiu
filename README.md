@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Greg (Guang) Liu Network Engineer since 1999, 2X CCIE10083 Emeritus, AZ700 AZ104 AZ305 ...
 - 👀 I’m interested in solutions can bring business value
+- Current work at Cisco as SDWAN TCE
 - 🌱 I’m currently learning Bicep and AZ400 Azure Devops
 - Starting from https://learn.microsoft.com/en-us/events/learn-events/learnlive-iac-and-bicep/
 - 
